@@ -53,10 +53,20 @@ Track rating trends over time using interactive graphs.
 ## **Screenshots:**
 
 ![Dashboard Image](Images/Dashboard.png)
+
+
 ![Browse Comments Image](Images/Browse_Comments.png)
+
+
 ![Selected Restaurant's Image](Images/Selected1.png)
+
+
 ![Competitor's Image](Images/Competitor1.png)
+
+
 ![Comparison Image](Images/Comparison1.png)
+
+
 ![Comparison Summary Image](Images/Comparison_Summary.png)
 
 
